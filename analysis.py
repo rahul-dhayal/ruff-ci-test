@@ -1,3 +1,4 @@
-import os, sys   
-x=10  
-print("bad code")
+import os
+import sys
+
+print("fixed")

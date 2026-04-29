@@ -1,0 +1,3 @@
+import os, sys   
+x=10  
+print("bad code")
